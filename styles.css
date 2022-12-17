@@ -1,0 +1,38 @@
+body {
+
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+
+img {
+    height: auto;
+    width: 800px;
+}
+
+ul,
+ol {
+    display: table;
+    margin: 0 auto;
+  }
+
+ .servings {
+
+    font-weight: bolder;
+ }
+
+ .sub {
+
+    font-size: 20px;
+ }
+ 
+ .titles {
+
+    font-size: 30px;
+ }
+
+ .ingredients {
+
+    font-size: 17px;
+ }
